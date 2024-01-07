@@ -1,4 +1,4 @@
-Seleccione Nuevo terminal en el menú Terminal para abrir el terminal integrado.
+#Seleccione Nuevo terminal en el menú Terminal para abrir el terminal integrado.
 
 Cambie al directorio (cd) que contendrá el proyecto.
 
