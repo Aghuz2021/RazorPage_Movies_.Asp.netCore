@@ -8,6 +8,7 @@ CLI de .NET
 
 Copiar
 dotnet new webapp -o RazorPagesMovie
+
 code -r RazorPagesMovie
 El comando dotnet new crea un proyecto de Razor Pages en la carpeta RazorPagesMovie.
 
